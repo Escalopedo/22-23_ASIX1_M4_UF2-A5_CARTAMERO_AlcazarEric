@@ -1,0 +1,130 @@
+
+@font-face {
+  font-family: 'Bat1';
+  src: url('../fuentes/batmfa__.ttf');
+}
+
+@font-face {
+  font-family: 'Bat2';
+  src: url('../fuentes/batmfo__.ttf');
+}
+
+@font-face {
+  font-family: 'Bat3';
+  src: url('../fuentes/gothamknightssemital.ttf');
+}
+
+@font-face {
+  font-family: 'Simbolos';
+  src: url('../fuentes/Batman\ The\ Dark\ Knight.TTF');
+}
+
+@font-face {
+  font-family: 'JOK';
+  src: url('../fuentes/GothicJoker-gxxGP.ttf');
+}
+
+@font-face {
+  font-family: 'DESC';
+  src: url('../fuentes/JMH\ Arkham.ttf');
+}
+
+
+*{
+  box-sizing: border-box;
+  font-family: 'DESC', sans-serif;
+  color: white;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  font-size: 42px;
+  text-align: center;
+  font-family: 'Bat1', sans-serif;
+}
+
+h2{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-decoration:underline;
+  font-size: 30px;
+  font-family: 'Bat2', sans-serif;
+}
+
+.subti{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 28px;
+  font-family: 'Bat3', sans-serif;
+}
+
+.linea{
+  border: none;
+  border-top: 4px solid #ffffff;
+  margin: 20px;
+  color: white;
+}
+
+.simbolos{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Simbolos', sans-serif;
+}
+
+.container{
+  color: rgb(255, 255, 255);
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+
+.flecha {
+  color: white;
+}
+
+.columna{
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+  min-height: 150px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+/* diseño responsive */
+@media screen and (max-width: 768px) {
+
+      *{
+        font-size: 15px;
+      }
+      h1 {
+      font-size: 29px;
+      }
+      
+      h2 {
+      font-size: 24px;
+      }
+      
+      .simbolos{
+        display: none;
+      }
+
+      .subti{
+        font-size: 20px;
+      }
+      
+      .ocul{
+        display: none;
+      }
+
+      .container {
+      grid-template-columns: repeat(1,1fr);
+      }
+      
+      .columna {
+      min-height: 80px;
+      flex-direction: column;
+      }
+
+  }

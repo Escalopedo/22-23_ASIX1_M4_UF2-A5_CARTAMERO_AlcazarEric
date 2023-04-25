@@ -1,0 +1,191 @@
+<platos>
+<!-- curiosidades -->
+  <curiosidades nombre="Batarang de queso" precio="8" desc="Una deliciosa opción de queso derretido en forma de batarang." cal="355" >
+  <caract>
+    <ingredientes nombre="Queso cheddar rallado" />
+    <ingredientes nombre="Pan de molde" />
+    <ingredientes nombre="Aceite en aerosol" />
+  </caract>
+  </curiosidades>
+  <curiosidades nombre="Bat-fingers de pollo" precio="9.50" desc="Trozos de pollo frito con forma de dedos de Batman." cal="450" >
+    <caract>
+    <ingredientes nombre="Pechuga de pollo" />
+    <ingredientes nombre="Huevos" />
+    <ingredientes nombre="Harina de trigo" />
+    <ingredientes nombre="Sal y pimienta" />
+    <ingredientes nombre="Aceite vegetal" />
+  </caract>
+  </curiosidades>
+  <curiosidades nombre="Sopa de murciélago" precio="10" desc="Una deliciosa sopa de tomate con forma de murciélago." cal="120" >
+    <caract>
+    <ingredientes nombre="Tomate" />
+    <ingredientes nombre="Cebolla" />
+    <ingredientes nombre="Ajo" />
+    <ingredientes nombre="Caldo de pollo" />
+    <ingredientes nombre="Sal y pimienta" />
+    <ingredientes nombre="Aceite de oliva" />
+  </caract>
+  </curiosidades>
+  <curiosidades nombre="Bat-guacamole" precio="3" desc="Un guacamole con forma de murciélago." cal="215">
+    <caract>
+    <ingredientes nombre="Aguacate"/>
+    <ingredientes nombre="Limón"/>
+    <ingredientes nombre="Tomate"/>
+    <ingredientes nombre="Cebolla"/>
+    <ingredientes nombre="Cilantro"/>
+  </caract>
+  </curiosidades>
+  <curiosidades nombre="Bat-nachos" precio="5" desc="Un curiosidades de nachos con forma de murciélago" cal="450">
+    <caract>
+    <ingredientes nombre="Chips de maíz" />
+    <ingredientes nombre="Frijoles negros" />
+    <ingredientes nombre="Guacamole " />
+    <ingredientes nombre="Queso cheddar rallado" />
+  </caract>
+  </curiosidades>
+    <curiosidades nombre="Bat-salchicha" precio="2" desc="Una salchicha envuelta en masa de hojaldre con forma de murciélago." cal="215">
+    <caract>
+    <ingredientes nombre="Salchichas" />
+    <ingredientes nombre="Masa de hojaldre" />
+    <ingredientes nombre="Huevo " />
+  </caract>
+  </curiosidades>
+
+  <!-- pizzas -->
+    <pizzas nombre="Pizza Margarita" precio="12" desc="Una de las pizzas italianas más clásicas" cal="215">
+    <caract>
+    <ingredientes nombre="Tomates" />
+    <ingredientes nombre="Mozzarella" />
+    <ingredientes nombre="Aceite de oliva" />
+    <ingredientes nombre="Albahaca " />
+    <ingredientes nombre="Sal" />
+    </caract>
+  </pizzas>
+<pizzas nombre="Pizza Hawaiana" precio="10" desc="Esta pizza es revolucionaria, ya que ha conseguido ser popular siendo de piña..." cal="250">
+    <caract>
+    <ingredientes nombre="Jamón" />
+    <ingredientes nombre="Piña" />
+    <ingredientes nombre="Queso  " />
+    <ingredientes nombre="Tomate" />
+    </caract>
+  </pizzas>
+  <pizzas nombre="Pizza Pepperoni" precio="11" desc="Un clásico allí dónde vayas." cal="300" >
+    <caract>
+    <ingredientes nombre="Queso mozzarella" />
+    <ingredientes nombre="Tomate" />
+    <ingredientes nombre="Pepperoni" />
+    <ingredientes nombre="Pimentón" />
+    <ingredientes nombre="Anís" />
+    </caract>
+  </pizzas>
+<pizzas nombre="Pizza Vegetariana" precio="10" desc="Pizza que no contiene carne y que tiene una variedad de verduras" cal="215">
+    <caract>
+    <ingredientes nombre="Cebolla" />
+    <ingredientes nombre="Pimiento" />
+    <ingredientes nombre="Champiñones" />
+    <ingredientes nombre="Aceitunas " />
+    <ingredientes nombre="Tomate" />
+    </caract>
+  </pizzas>
+  <pizzas nombre="Pizza Barbacoa" precio="12" desc="Pizza que tiene una base de salsa barbacoa en lugar de salsa de tomate" cal="300" >
+    <caract>
+    <ingredientes nombre="Pollo" />
+    <ingredientes nombre="Carne de res o cerdo" />
+    <ingredientes nombre="Cebolla" />
+    <ingredientes nombre="Queso Mozzarella" />
+    <ingredientes nombre="Barbacoa" />
+    </caract>
+  </pizzas>
+    <pizzas nombre="Pizza de Pollo a la Parrilla" precio="13" desc="Pizza que tiene una base de salsa de tomate y cubierta con pollo" cal="280" >
+    <caract>
+    <ingredientes nombre="Pollo" />
+    <ingredientes nombre="Queso Mozarrela" />
+    <ingredientes nombre="Cebolla" />
+    <ingredientes nombre="Pimientos" />
+    <ingredientes nombre="Tomate" />
+  </caract>
+  </pizzas>
+    <pizzas nombre="Bat-Pizza" precio="15" desc="Pizza que tiene la forma de un murciélago, pizza sencilla con aceitunas negras" cal="280" >
+    <caract>
+    <ingredientes nombre="Harina" />
+    <ingredientes nombre="Queso Mozarrela" />
+    <ingredientes nombre="Aceitunas negras" />
+    <ingredientes nombre="Pepperoni" />
+    <ingredientes nombre="Pimientos verdes" />
+    <ingredientes nombre="Tomate" />
+  </caract>
+  </pizzas>
+
+  <!-- postres -->
+  <postres tipo="POSTRES" nombre="Pastel de Batman" precio="10" desc="Pastel de la icónica máscara de Batman" cal="350" >
+    <caract>      
+    <ingredientes nombre="Harina" />
+    <ingredientes nombre="Leche" />
+    <ingredientes nombre="Huevos" />
+    <ingredientes nombre="Colorantes con gluten" />
+    </caract>
+  </postres>
+<postres tipo="POSTRES" nombre="Pastel de Batman" precio="10" desc="Pastel de la icónica máscara de Batman" cal="350">
+    <caract>  
+    <ingredientes nombre="Harina" />
+    <ingredientes nombre="Leche" />
+    <ingredientes nombre="Huevos" />
+    <ingredientes nombre="Colorantes con gluten" />
+    </caract>
+  </postres>
+<postres tipo="POSTRES" nombre="Galletas de Batman" precio="5" desc="Galletas con sabor a canela con la silueta y forma de Batman" cal="120"  >
+    <caract>  
+    <ingredientes nombre="Harina" />
+    <ingredientes nombre="Mantequilla" />
+    <ingredientes nombre="Huevos" />
+    <ingredientes nombre="Extracto de vainilla" />
+    </caract>
+  </postres>
+<postres tipo="POSTRES" nombre="Tarta de chocolate Batman" precio="11" desc="Tarta que contiene en la parte superiro la silueta del murciélago" cal="350">
+    <caract>    
+    <ingredientes nombre="Harina" />
+    <ingredientes nombre="Leche" />
+    <ingredientes nombre="Huevos" />
+    <ingredientes nombre="Colorantes con gluten" />
+    </caract>
+  </postres>
+<postres tipo="POSTRES" nombre="Cupcakes de Batman" precio="7" desc="Hermosos cupcakes de chocolate con una tableta de chocolate arriba con la forma del batarang" cal="150" >
+    <caract>
+    <ingredientes nombre="Harina de garbanzo" />
+    <ingredientes nombre="Leche" />
+    <ingredientes nombre="Huevos" />
+    <ingredientes nombre="Extracto de vainilla" />
+    </caract>
+  </postres>
+<postres tipo="POSTRES" nombre="Helado de Batman" precio="4" desc="Un helado básico para los más pequeños, dónde el sabor a chocolate solapará con el sabor de la galleta de batman y será encantador" cal="200" >
+    <caract>
+    <ingredientes nombre="Nata" />
+    <ingredientes nombre="Leche" />
+    <ingredientes nombre="Yemas de huevo" />
+    <ingredientes nombre="Harina de trigo" />
+    </caract>
+  </postres>
+  <postres tipo="POSTRES" nombre="Donuts de Batman" precio="8" desc="Donuts con mucho azúcar que describen diferentes caras y siluetas del mundo Arkham" cal="280" >
+    <caract>
+    <ingredientes nombre="Harina" />
+    <ingredientes nombre="Leche" />
+    <ingredientes nombre="Huevos" />
+    <ingredientes nombre="Levadura" />
+    <ingredientes nombre="Extracto de vainilla" />
+    <ingredientes nombre="Colorantes con gluten" />
+  </caract>
+  </postres>
+
+  <!-- bebidas -->
+    <bebida nombre="AGUA" precio ="1"></bebida>
+    <bebida nombre="AGUA CON GAS" precio ="1.50"></bebida>
+    <bebida nombre="ZUMOS" precio ="1.80"></bebida>
+    <bebida nombre="LIMONADA" precio ="1.80"></bebida>
+    <bebida nombre="REFRESCOS" precio ="2"></bebida>
+    <bebida nombre="RED BULL" precio ="2.50"></bebida>
+    <bebida nombre="CERVEZA" precio ="2.60"></bebida>
+    <bebida nombre="VINO BLANCO" precio ="3"></bebida>
+    <bebida nombre="VINO TINTO" precio ="3.40"></bebida>
+    <bebida nombre="CÓCTEL (a elección)" precio ="6"></bebida>
+    <bebida nombre="DIGESTIVO (a elección)" precio ="5"></bebida>
+</platos>
